@@ -1,0 +1,66 @@
+﻿  2-course 11 bank project with oop cpp.cpp
+C:\Users\dr\source\repos\course 11\2-course 11 bank project with oop cpp\2-course 11 bank project with oop cpp\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file '2-course%2011%20bank%20project%20with%20oop%20cpp.cpp')
+  
+C:\Users\dr\source\repos\course 11\2-course 11 bank project with oop cpp\2-course 11 bank project with oop cpp\clsUser.h(198,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file '2-course%2011%20bank%20project%20with%20oop%20cpp.cpp')
+  C:\Users\dr\source\repos\course 11\2-course 11 bank project with oop cpp\2-course 11 bank project with oop cpp\clsUser.h(26,12):
+  see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\dr\source\repos\course 11\2-course 11 bank project with oop cpp\2-course 11 bank project with oop cpp\clsInputValidate.h(112,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '2-course%2011%20bank%20project%20with%20oop%20cpp.cpp')
+  
+C:\Users\dr\source\repos\course 11\2-course 11 bank project with oop cpp\2-course 11 bank project with oop cpp\clsInputValidate.h(116,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '2-course%2011%20bank%20project%20with%20oop%20cpp.cpp')
+  
+C:\Users\dr\source\repos\course 11\2-course 11 bank project with oop cpp\2-course 11 bank project with oop cpp\clsBankClient.h(206,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file '2-course%2011%20bank%20project%20with%20oop%20cpp.cpp')
+  C:\Users\dr\source\repos\course 11\2-course 11 bank project with oop cpp\2-course 11 bank project with oop cpp\clsBankClient.h(152,12):
+  see declaration of 'clsBankClient::stTrnsferLogRecord'
+  
+C:\Users\dr\source\repos\course 11\2-course 11 bank project with oop cpp\2-course 11 bank project with oop cpp\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '2-course%2011%20bank%20project%20with%20oop%20cpp.cpp')
+  
+C:\Users\dr\source\repos\course 11\2-course 11 bank project with oop cpp\2-course 11 bank project with oop cpp\clsBankClient.h(162,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '2-course%2011%20bank%20project%20with%20oop%20cpp.cpp')
+  
+C:\Users\dr\source\repos\course 11\2-course 11 bank project with oop cpp\2-course 11 bank project with oop cpp\clsBankClient.h(163,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '2-course%2011%20bank%20project%20with%20oop%20cpp.cpp')
+  
+C:\Users\dr\source\repos\course 11\2-course 11 bank project with oop cpp\2-course 11 bank project with oop cpp\clsBankClient.h(164,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '2-course%2011%20bank%20project%20with%20oop%20cpp.cpp')
+  
+C:\Users\dr\source\repos\course 11\2-course 11 bank project with oop cpp\2-course 11 bank project with oop cpp\clsBankClient.h(421,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '2-course%2011%20bank%20project%20with%20oop%20cpp.cpp')
+  
+C:\Users\dr\source\repos\course 11\2-course 11 bank project with oop cpp\2-course 11 bank project with oop cpp\clsBankClient.h(434,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '2-course%2011%20bank%20project%20with%20oop%20cpp.cpp')
+  
+C:\Users\dr\source\repos\course 11\2-course 11 bank project with oop cpp\2-course 11 bank project with oop cpp\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '2-course%2011%20bank%20project%20with%20oop%20cpp.cpp')
+  
+C:\Users\dr\source\repos\course 11\2-course 11 bank project with oop cpp\2-course 11 bank project with oop cpp\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '2-course%2011%20bank%20project%20with%20oop%20cpp.cpp')
+  
+C:\Users\dr\source\repos\course 11\2-course 11 bank project with oop cpp\2-course 11 bank project with oop cpp\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '2-course%2011%20bank%20project%20with%20oop%20cpp.cpp')
+  
+C:\Users\dr\source\repos\course 11\2-course 11 bank project with oop cpp\2-course 11 bank project with oop cpp\clsTransferScreen.h(42,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '2-course%2011%20bank%20project%20with%20oop%20cpp.cpp')
+  
+C:\Users\dr\source\repos\course 11\2-course 11 bank project with oop cpp\2-course 11 bank project with oop cpp\clsTransferScreen.h(47,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '2-course%2011%20bank%20project%20with%20oop%20cpp.cpp')
+  
+C:\Users\dr\source\repos\course 11\2-course 11 bank project with oop cpp\2-course 11 bank project with oop cpp\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '2-course%2011%20bank%20project%20with%20oop%20cpp.cpp')
+  
+C:\Users\dr\source\repos\course 11\2-course 11 bank project with oop cpp\2-course 11 bank project with oop cpp\clsUpdateCurrencyRateScreen.h(17,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '2-course%2011%20bank%20project%20with%20oop%20cpp.cpp')
+  
+C:\Users\dr\source\repos\course 11\2-course 11 bank project with oop cpp\2-course 11 bank project with oop cpp\clsCurrencyCalculatorScreen.h(17,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '2-course%2011%20bank%20project%20with%20oop%20cpp.cpp')
+  
+C:\Users\dr\source\repos\course 11\2-course 11 bank project with oop cpp\2-course 11 bank project with oop cpp\clsBankClient.h(376,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\dr\source\repos\course 11\2-course 11 bank project with oop cpp\2-course 11 bank project with oop cpp\clsUser.h(360,1): warning C4715: 'clsUser::Save': not all control paths return a value
+C:\Users\dr\source\repos\course 11\2-course 11 bank project with oop cpp\2-course 11 bank project with oop cpp\clsBankClient.h(438,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+  2-course 11 bank project with oop cpp.vcxproj -> C:\Users\dr\source\repos\course 11\2-course 11 bank project with oop cpp\x64\Debug\2-course 11 bank project with oop cpp.exe
